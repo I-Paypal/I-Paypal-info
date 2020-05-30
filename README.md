@@ -1,7 +1,7 @@
 # I-Paypal-info
 Inffo paypal cekQut
 
-
+![222](https://github.com/I-Paypal/I-Paypal-info/blob/master/Screenshot_2020-05-30-02-28-51.jpg)
 
 
 <br/><i> Binggung Dengan Pembayaran💳 Bayar Di 👇 aja<i/>
