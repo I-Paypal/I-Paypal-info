@@ -14,3 +14,10 @@ Inffo paypal cekQut
 
 
 https://youtu.be/2MsN8gpT6jY
+
+----
+
+
+<button onclick='FB.AppEvents.logEvent("buttonClicked")'>
+  Click me
+</button>
