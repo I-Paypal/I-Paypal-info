@@ -10,7 +10,7 @@ Inffo paypal cekQut
 
 
 ----
-
+![.github/workflows/main.yml](https://github.com/I-Paypal/I-Paypal-info/workflows/.github/workflows/main.yml/badge.svg)
 
 
 https://youtu.be/2MsN8gpT6jY
